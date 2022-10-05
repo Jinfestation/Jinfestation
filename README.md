@@ -1,11 +1,3 @@
-# Jin
-Engenheiro Mecânico(4º Ano).
-Técnico em TI.
-Eletricista. 
-Amante da tecnologia.
-Back End <3 
-Estagiário de Melhoria Contínua.
-
 <div align="center">
   <a href="https://github.com/jinfestation">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jinfestation&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
