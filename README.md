@@ -20,6 +20,6 @@ Estagiário de Melhoria Contínua.
  
 </div>
   
-  ![Snake animation](https://github.com/jinfestation/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jinfestation/jinfestation/blob/output/github-contribution-grid-snake.svg)
   
 </div>
